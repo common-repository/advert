@@ -1,0 +1,2604 @@
+# This file is distributed under the same license as the AdVert for WordPress package.
+msgid ""
+msgstr ""
+"Project-Id-Version: AdVert 1.0\n"
+"POT-Creation-Date: 2015-08-24 18:27-0500\n"
+"PO-Revision-Date: 2015-08-24 18:27-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/advert-admin-functions.php:69
+msgid "Ad Location"
+msgstr ""
+
+#: admin/advert-admin-functions.php:70
+msgid "AdCredit Amount"
+msgstr ""
+
+#: admin/advert-admin-functions.php:97
+msgid ""
+"* The AdCredit amount can either be per click or per 1,000 impressions "
+"depending on the Campaign pricing model you choose. "
+msgstr ""
+
+#: admin/advert-admin-functions.php:130
+msgid "Dismiss this notice"
+msgstr ""
+
+#: admin/advert-admin-functions.php:364
+#, php-format
+msgid "A new %s is pending review"
+msgstr ""
+
+#: admin/advert-admin-functions.php:365
+#, php-format
+msgid ""
+"A new %1$s titled \"%2$s\" is pending review on %3$s.<br /><br /><br /"
+"><center><i>This is an automated message from AdVert</i></center>"
+msgstr ""
+
+#: admin/advert-admin-functions.php:370
+#, php-format
+msgid "A new %s has been published"
+msgstr ""
+
+#: admin/advert-admin-functions.php:371
+#, php-format
+msgid ""
+"A new %1$s titled \"%2$s\" has been published on %3$s.<br /><br /><br /"
+"><center><i>This is an automated message from AdVert</i></center>"
+msgstr ""
+
+#: admin/advert-admin.php:168
+#, php-format
+msgid "AdVert %s"
+msgstr ""
+
+#: admin/advert-admin.php:168 admin/advert-admin.php:174
+#: admin/advert-admin.php:222 admin/advert-admin.php:247
+#: includes/class-advert-multisite.php:36
+msgid "AdVert"
+msgstr ""
+
+#: admin/advert-admin.php:169
+#, php-format
+msgid "Advertisers %s"
+msgstr ""
+
+#: admin/advert-admin.php:169 admin/advert-admin.php:180
+msgid "Advertisers"
+msgstr ""
+
+#: admin/advert-admin.php:170
+#, php-format
+msgid "Banners %s"
+msgstr ""
+
+#: admin/advert-admin.php:170 admin/advert-admin.php:181
+#: admin/advert-admin.php:254
+msgid "Banners"
+msgstr ""
+
+#: admin/advert-admin.php:171
+#, php-format
+msgid "Campaigns %s"
+msgstr ""
+
+#: admin/advert-admin.php:171 admin/advert-admin.php:182
+#: admin/advert-admin.php:255
+msgid "Campaigns"
+msgstr ""
+
+#: admin/advert-admin.php:177 admin/advert-admin.php:250
+#: includes/advert-dashboard-user.php:397 includes/advert-dashboard.php:252
+#: public/advert-frontend-functions.php:216
+#: public/advert-frontend-functions.php:257
+msgid "Dashboard"
+msgstr ""
+
+#: admin/advert-admin.php:183
+msgid "Locations"
+msgstr ""
+
+#: admin/advert-admin.php:184 admin/advert-admin.php:264
+msgid "Analysis Overview"
+msgstr ""
+
+#: admin/advert-admin.php:184 admin/advert-admin.php:185
+#: admin/advert-admin.php:264 admin/advert-admin.php:265
+#: includes/class-advert-analysis-drilldown.php:773
+#: includes/class-advert-analysis.php:98
+#: includes/class-advert-post-types.php:333
+#: public/advert-frontend-functions.php:233
+#: public/advert-frontend-functions.php:266
+msgid "Analysis"
+msgstr ""
+
+#: admin/advert-admin.php:185 admin/advert-admin.php:265
+msgid "Analysis Drilldown"
+msgstr ""
+
+#: admin/advert-admin.php:277 admin/advert-admin.php:284
+#: includes/class-advert-transactions.php:79
+msgid "Transactions"
+msgstr ""
+
+#: includes/advert-advertisers.php:9
+msgid "Advertiser Info"
+msgstr ""
+
+#: includes/advert-advertisers.php:21
+msgid "Advertiser Overview"
+msgstr ""
+
+#: includes/advert-advertisers.php:24 includes/advert-banners.php:9
+#: includes/advert-campaigns.php:16
+msgid "Change Control"
+msgstr ""
+
+#: includes/advert-advertisers.php:25 includes/advert-dashboard-user.php:52
+msgid "Transaction History"
+msgstr ""
+
+#: includes/advert-advertisers.php:32 includes/advert-banners.php:16
+#: includes/advert-campaigns.php:23 includes/advert-locations.php:14
+msgid "Publishing Tools"
+msgstr ""
+
+#: includes/advert-advertisers.php:49 includes/advert-dashboard-user.php:115
+msgid "Name (Company or Title)"
+msgstr ""
+
+#: includes/advert-advertisers.php:54 includes/advert-dashboard-user.php:124
+msgid "Email Address"
+msgstr ""
+
+#: includes/advert-advertisers.php:59 includes/advert-dashboard-user.php:133
+msgid "Telephone Number"
+msgstr ""
+
+#: includes/advert-advertisers.php:64
+msgid "Notes"
+msgstr ""
+
+#: includes/advert-advertisers.php:82 includes/advert-dashboard-user.php:179
+msgid "AdCredits Available"
+msgstr ""
+
+#: includes/advert-advertisers.php:86
+msgid "Add/Remove Ad Credits"
+msgstr ""
+
+#: includes/advert-advertisers.php:89
+msgid "Add"
+msgstr ""
+
+#: includes/advert-advertisers.php:90
+msgid "Remove"
+msgstr ""
+
+#: includes/advert-advertisers.php:95 includes/advert-advertisers.php:194
+#: includes/advert-advertisers.php:207 includes/advert-dashboard-user.php:227
+#: includes/advert-dashboard-user.php:240
+#: includes/class-advert-transactions.php:160
+#: includes/class-advert-transactions.php:175
+msgid "Reason"
+msgstr ""
+
+#: includes/advert-advertisers.php:108
+msgid "AdCredits disabled"
+msgstr ""
+
+#: includes/advert-advertisers.php:108
+msgid "Disable AdCredits?"
+msgstr ""
+
+#: includes/advert-advertisers.php:113
+msgid ""
+"AdVert Tip: If you disable AdCredits for this Advertiser, charges will not "
+"occur."
+msgstr ""
+
+#: includes/advert-advertisers.php:127
+msgid ""
+"Useful when you manually create a new Advertiser and want to attach it to a "
+"user on the site."
+msgstr ""
+
+#: includes/advert-advertisers.php:171 includes/advert-banners.php:354
+#: includes/advert-campaigns.php:412 includes/advert-setup.php:108
+#: includes/class-advert-analysis-drilldown.php:643
+#: includes/class-advert-analysis-drilldown.php:649
+#: includes/class-advert-analysis-drilldown.php:822
+#: includes/class-advert-transactions.php:156
+#: includes/class-advert-transactions.php:171
+msgid "Advertiser"
+msgstr ""
+
+#: includes/advert-advertisers.php:171 includes/advert-banners.php:354
+#: includes/advert-campaigns.php:412 includes/advert-setup.php:115
+msgid "AdVert Manager"
+msgstr ""
+
+#: includes/advert-advertisers.php:176
+msgid ""
+"AdVert Tip: When you change ownership to an existing user, the users role is "
+"changed to Advertiser."
+msgstr ""
+
+#: includes/advert-advertisers.php:192 includes/advert-advertisers.php:205
+#: includes/advert-campaigns.php:149 includes/advert-dashboard-user.php:51
+#: includes/advert-dashboard-user.php:225
+#: includes/advert-dashboard-user.php:238 includes/advert-locations.php:53
+#: includes/class-advert-transactions.php:158
+#: includes/class-advert-transactions.php:173
+#: plugins/paypal/class-advert-paypal-actions.php:168
+msgid "AdCredits"
+msgstr ""
+
+#: includes/advert-advertisers.php:193 includes/advert-advertisers.php:206
+#: includes/advert-dashboard-user.php:226
+#: includes/advert-dashboard-user.php:239
+#: includes/class-advert-transactions.php:159
+#: includes/class-advert-transactions.php:174
+msgid "Action"
+msgstr ""
+
+#: includes/advert-advertisers.php:195 includes/advert-advertisers.php:208
+#: includes/advert-dashboard-user.php:228
+#: includes/advert-dashboard-user.php:241
+#: includes/class-advert-transactions.php:161
+#: includes/class-advert-transactions.php:176
+msgid "Timestamp"
+msgstr ""
+
+#: includes/advert-advertisers.php:222 includes/advert-dashboard-user.php:255
+#: includes/class-advert-transactions.php:235
+msgid "Removed"
+msgstr ""
+
+#: includes/advert-advertisers.php:222 includes/advert-advertisers.php:226
+#: includes/advert-dashboard-user.php:255
+#: includes/advert-dashboard-user.php:259
+#: includes/class-advert-transactions.php:235
+#: includes/class-advert-transactions.php:239
+msgid "m/j/Y - G:i:s"
+msgstr ""
+
+#: includes/advert-advertisers.php:226 includes/advert-dashboard-user.php:259
+#: includes/class-advert-transactions.php:239
+msgid "Added"
+msgstr ""
+
+#: includes/advert-advertisers.php:254
+msgid "Advertiser updated."
+msgstr ""
+
+#: includes/advert-advertisers.php:255
+msgid "Advertiser published."
+msgstr ""
+
+#: includes/advert-advertisers.php:256
+msgid "Advertiser submitted."
+msgstr ""
+
+#: includes/advert-advertisers.php:257
+#, php-format
+msgid "Advertiser scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: includes/advert-advertisers.php:257 includes/advert-banners.php:392
+#: includes/advert-campaigns.php:430 includes/advert-locations.php:160
+#: includes/advert-post-metabox.php:119
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: includes/advert-advertisers.php:258
+msgid "Advertiser draft updated."
+msgstr ""
+
+#: includes/advert-advertisers.php:459 includes/advert-banners.php:656
+#: includes/advert-banners.php:668 includes/advert-campaigns.php:650
+#: includes/advert-locations.php:255
+msgid "Title"
+msgstr ""
+
+#: includes/advert-advertisers.php:460
+msgid "AID"
+msgstr ""
+
+#: includes/advert-advertisers.php:461 includes/advert-banners.php:658
+#: includes/advert-campaigns.php:59 includes/advert-campaigns.php:652
+msgid "Owner"
+msgstr ""
+
+#: includes/advert-advertisers.php:462
+msgid "Email"
+msgstr ""
+
+#: includes/advert-advertisers.php:463
+msgid "Ad Credits"
+msgstr ""
+
+#: includes/advert-advertisers.php:464 includes/class-advert-analysis.php:192
+msgid "Active Campaigns"
+msgstr ""
+
+#: includes/advert-advertisers.php:465
+msgid "# of Banners"
+msgstr ""
+
+#: includes/advert-ajax.php:189
+msgid "An error has occurred"
+msgstr ""
+
+#: includes/advert-banners.php:5
+msgid "Banner Owner"
+msgstr ""
+
+#: includes/advert-banners.php:6
+msgid "Banner Options"
+msgstr ""
+
+#: includes/advert-banners.php:32
+msgid "Banner Image"
+msgstr ""
+
+#: includes/advert-banners.php:36
+msgid "Banner Video"
+msgstr ""
+
+#: includes/advert-banners.php:40
+msgid "Banner Text"
+msgstr ""
+
+#: includes/advert-banners.php:59
+msgid "Enable JavaScript to add/remove image"
+msgstr ""
+
+#: includes/advert-banners.php:62
+msgid "Image dimensions should be:"
+msgstr ""
+
+#: includes/advert-banners.php:62
+msgid "Width:"
+msgstr ""
+
+#: includes/advert-banners.php:62
+msgid "Height:"
+msgstr ""
+
+#: includes/advert-banners.php:65
+msgid "AdVert Tip: This is an image preview."
+msgstr ""
+
+#: includes/advert-banners.php:92 includes/advert-banners.php:99
+msgid "Enable JavaScript to add/remove video"
+msgstr ""
+
+#: includes/advert-banners.php:93 includes/advert-banners.php:100
+msgid "Remove featured video"
+msgstr ""
+
+#: includes/advert-banners.php:94 includes/advert-banners.php:101
+#: includes/advert-banners.php:225
+msgid "Set featured video"
+msgstr ""
+
+#: includes/advert-banners.php:95
+msgid "Video length should not exceed:"
+msgstr ""
+
+#: includes/advert-banners.php:96
+msgid ""
+"AdVert Tip: Select an Banner Image (if available) in case the video does not "
+"display or if you want a video thumbnail"
+msgstr ""
+
+#: includes/advert-banners.php:103
+msgid ""
+"AdVert Tip: Select an Banner Image in case the video does not display or if "
+"you want a video thumbnail"
+msgstr ""
+
+#: includes/advert-banners.php:123
+msgid "Enable JavaScript to add/remove text"
+msgstr ""
+
+#: includes/advert-banners.php:128 includes/advert-locations.php:126
+msgid "First block"
+msgstr ""
+
+#: includes/advert-banners.php:133 includes/advert-locations.php:131
+msgid "Second block"
+msgstr ""
+
+#: includes/advert-banners.php:139
+msgid ""
+"AdVert Tip: If this Banner has an image or video, the text ad will not "
+"display."
+msgstr ""
+
+#: includes/advert-banners.php:178
+msgid "Attach this banner to an Advertiser"
+msgstr ""
+
+#: includes/advert-banners.php:180
+msgid "Select Owner"
+msgstr ""
+
+#: includes/advert-banners.php:190
+msgid "Need another Advertiser, add more"
+msgstr ""
+
+#: includes/advert-banners.php:190 includes/advert-dashboard.php:107
+msgid "here"
+msgstr ""
+
+#: includes/advert-banners.php:215
+msgid ""
+"Once you select the Banner owner (Advertiser) and either save draft or "
+"publish this banner, you will have additional options specific to the "
+"advertiser."
+msgstr ""
+
+#: includes/advert-banners.php:219
+msgid ""
+"Once you enter a title for this Banner and save draft or submit for review, "
+"you will have additional options."
+msgstr ""
+
+#: includes/advert-banners.php:224
+msgid "Select Featured Video"
+msgstr ""
+
+#: includes/advert-banners.php:226
+msgid "Recommended video length should not exceed"
+msgstr ""
+
+#: includes/advert-banners.php:227
+msgid "seconds"
+msgstr ""
+
+#: includes/advert-banners.php:228
+msgid "Image dimensions should be"
+msgstr ""
+
+#: includes/advert-banners.php:229
+msgid "Width"
+msgstr ""
+
+#: includes/advert-banners.php:230
+msgid "Height"
+msgstr ""
+
+#: includes/advert-banners.php:231
+msgid "Manage Banner Categories"
+msgstr ""
+
+#: includes/advert-banners.php:237
+msgid "Banner Target Location"
+msgstr ""
+
+#: includes/advert-banners.php:238
+msgid "Where will this banner be displayed"
+msgstr ""
+
+#: includes/advert-banners.php:239
+msgid "No Locations have been created"
+msgstr ""
+
+#: includes/advert-banners.php:239
+msgid "add new location"
+msgstr ""
+
+#: includes/advert-banners.php:241
+msgid "Select Location"
+msgstr ""
+
+#: includes/advert-banners.php:271 includes/advert-banners.php:660
+#: includes/advert-banners.php:671 includes/advert-campaigns.php:284
+#: includes/advert-locations.php:59 includes/advert-locations.php:285
+msgid "Priority"
+msgstr ""
+
+#: includes/advert-banners.php:272 includes/advert-campaigns.php:285
+msgid ""
+"Greater numbers will display more often: 1 lowest | 10 Highest - Default is 5"
+msgstr ""
+
+#: includes/advert-banners.php:288
+msgid "Link"
+msgstr ""
+
+#: includes/advert-banners.php:289
+msgid "if applicable - ( format: http://www.example.com )"
+msgstr ""
+
+#: includes/advert-banners.php:294
+msgid "Target Window"
+msgstr ""
+
+#: includes/advert-banners.php:295
+msgid "Specifies where to open the link"
+msgstr ""
+
+#: includes/advert-banners.php:297
+msgid "Blank"
+msgstr ""
+
+#: includes/advert-banners.php:298
+msgid "Self"
+msgstr ""
+
+#: includes/advert-banners.php:299
+msgid "Parent"
+msgstr ""
+
+#: includes/advert-banners.php:300
+msgid "Top"
+msgstr ""
+
+#: includes/advert-banners.php:311 includes/advert-banners.php:662
+msgid "Custom HTML"
+msgstr ""
+
+#: includes/advert-banners.php:312
+msgid ""
+"If you add custom HTML here, it will override the Banner (image, video or "
+"text) automatically."
+msgstr ""
+
+#: includes/advert-banners.php:330
+msgid ""
+"Useful when you manually create a new Banner and want to attach it to a user "
+"on the site."
+msgstr ""
+
+#: includes/advert-banners.php:389
+msgid "Banner updated."
+msgstr ""
+
+#: includes/advert-banners.php:390
+msgid "Banner published."
+msgstr ""
+
+#: includes/advert-banners.php:391
+msgid "Banner submitted."
+msgstr ""
+
+#: includes/advert-banners.php:392
+#, php-format
+msgid "banner scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: includes/advert-banners.php:393
+msgid "Banner draft updated."
+msgstr ""
+
+#: includes/advert-banners.php:549
+msgid ""
+"Error: The image selected is not the correct format. Accepted formats are "
+"jpg, jpeg, png and gif. The Banner has been saved as draft."
+msgstr ""
+
+#: includes/advert-banners.php:560
+#, php-format
+msgid ""
+"Error: The image selected is not the correct size. The width should be "
+"%1$spx and the height should be %2$spx. The Banner has been saved as draft."
+msgstr ""
+
+#: includes/advert-banners.php:585
+msgid ""
+"Error: The video selected is not mp4 format. AdVert currently uses mp4 "
+"format. The Banner has been saved as draft."
+msgstr ""
+
+#: includes/advert-banners.php:594
+#, php-format
+msgid ""
+"Error: The video selected exceeds the recommended length of %1$s seconds. "
+"The Banner has been saved as draft."
+msgstr ""
+
+#: includes/advert-banners.php:608
+msgid ""
+"Error: The text length for the first text block is too long. The Banner has "
+"been saved as draft."
+msgstr ""
+
+#: includes/advert-banners.php:613
+msgid ""
+"Error: The text length for the second text block is too long. The Banner has "
+"been saved as draft."
+msgstr ""
+
+#: includes/advert-banners.php:657 includes/advert-banners.php:669
+msgid "BID"
+msgstr ""
+
+#: includes/advert-banners.php:659 includes/advert-banners.php:670
+#: includes/class-advert-analysis-drilldown.php:613
+#: includes/class-advert-analysis-drilldown.php:799
+msgid "Location"
+msgstr ""
+
+#: includes/advert-banners.php:661 includes/advert-banners.php:672
+msgid "Linked"
+msgstr ""
+
+#: includes/advert-banners.php:663 includes/advert-banners.php:673
+msgid "Banner Type"
+msgstr ""
+
+#: includes/advert-banners.php:705 includes/advert-banners.php:708
+msgid "Yes"
+msgstr ""
+
+#: includes/advert-banners.php:705 includes/advert-banners.php:708
+msgid "No"
+msgstr ""
+
+#: includes/advert-banners.php:716
+msgid "Image"
+msgstr ""
+
+#: includes/advert-banners.php:719 includes/class-advert-control-panel.php:584
+msgid "Video"
+msgstr ""
+
+#: includes/advert-banners.php:722
+msgid "Text"
+msgstr ""
+
+#: includes/advert-banners.php:725 includes/advert-campaigns.php:62
+#: includes/class-advert-widget.php:97 includes/class-advert-widget.php:110
+msgid "None"
+msgstr ""
+
+#: includes/advert-campaigns.php:8
+msgid "Campaign Owner"
+msgstr ""
+
+#: includes/advert-campaigns.php:9
+msgid "Campaign Options"
+msgstr ""
+
+#: includes/advert-campaigns.php:12
+msgid "Campaign Overview"
+msgstr ""
+
+#: includes/advert-campaigns.php:60
+msgid "The advertiser for this campaign - This cannot be changed."
+msgstr ""
+
+#: includes/advert-campaigns.php:101
+msgid ""
+"Once you select the Advertiser and either save draft or publish this "
+"campaign, you will have additional options specific to the advertiser."
+msgstr ""
+
+#: includes/advert-campaigns.php:105
+msgid ""
+"Once you enter a title for the campaign and save draft, you will have "
+"additional options."
+msgstr ""
+
+#: includes/advert-campaigns.php:128
+msgid ""
+"Once the campaign is submited, your location rate or rates will be locked "
+"in. View"
+msgstr ""
+
+#: includes/advert-campaigns.php:129
+#: plugins/paypal/class-advert-paypal-actions.php:147
+msgid "Current Rates"
+msgstr ""
+
+#: includes/advert-campaigns.php:142 includes/advert-campaigns.php:148
+msgid "Budget"
+msgstr ""
+
+#: includes/advert-campaigns.php:143
+msgid ""
+"Select budget type and how many AdCredits. Whenever the costs reach the "
+"budget value, the campaign will not display."
+msgstr ""
+
+#: includes/advert-campaigns.php:145 includes/advert-campaigns.php:685
+msgid "Fixed"
+msgstr ""
+
+#: includes/advert-campaigns.php:146 includes/advert-campaigns.php:688
+msgid "Per Day"
+msgstr ""
+
+#: includes/advert-campaigns.php:150
+msgid "No AdCredits Available"
+msgstr ""
+
+#: includes/advert-campaigns.php:157
+#, php-format
+msgid "No AdCredits available. Add more&nbsp;<a href=\"%s\">AdCredits</a>"
+msgstr ""
+
+#: includes/advert-campaigns.php:161
+#, php-format
+msgid "This campaign originally started with %s AdCredits"
+msgstr ""
+
+#: includes/advert-campaigns.php:167
+msgid "Pricing Model"
+msgstr ""
+
+#: includes/advert-campaigns.php:168
+msgid "Select how you want this campaign to be charged."
+msgstr ""
+
+#: includes/advert-campaigns.php:192
+msgid "CPC - Cost per click"
+msgstr ""
+
+#: includes/advert-campaigns.php:196
+msgid "CPM - Cost occurs every 1,000 impressions"
+msgstr ""
+
+#: includes/advert-campaigns.php:200
+msgid ""
+"CPP - Cost per period: An end date should be set if you choose this option"
+msgstr ""
+
+#: includes/advert-campaigns.php:212
+msgid "Choose Locations"
+msgstr ""
+
+#: includes/advert-campaigns.php:213
+msgid ""
+"Sets the location or locations where this campaign will run, if available"
+msgstr ""
+
+#: includes/advert-campaigns.php:230
+msgid ""
+"No Link Detected: At least one Banner for this location does not have a link"
+msgstr ""
+
+#: includes/advert-campaigns.php:258
+msgid "multiple Banners attached to"
+msgstr ""
+
+#: includes/advert-campaigns.php:266
+#, php-format
+msgid "Want to target more locations? Add more&nbsp;<a href=\"%s\">Banners</a>"
+msgstr ""
+
+#: includes/advert-campaigns.php:269
+#, php-format
+msgid "No locations are set. Add more&nbsp;<a href=\"%s\">Locations</a>"
+msgstr ""
+
+#: includes/advert-campaigns.php:276 includes/advert-post-metabox.php:199
+msgid "Schedule"
+msgstr ""
+
+#: includes/advert-campaigns.php:277
+msgid ""
+"Set the start date for this campaign. The campaign will start on this date."
+msgstr ""
+
+#: includes/advert-campaigns.php:278
+msgid "Start date - mm/dd/yyyy"
+msgstr ""
+
+#: includes/advert-campaigns.php:279
+msgid ""
+"Set the stop date for this campaign or leave empty. If left empty the "
+"campaign will run until the budget is depleted."
+msgstr ""
+
+#: includes/advert-campaigns.php:280
+msgid "Stop date - mm/dd/yyyy"
+msgstr ""
+
+#: includes/advert-campaigns.php:301
+msgid "Optional Limits"
+msgstr ""
+
+#: includes/advert-campaigns.php:302
+msgid "Specify limits for this campaign"
+msgstr ""
+
+#: includes/advert-campaigns.php:306
+#: includes/class-advert-analysis-drilldown.php:872
+msgid "Total Impressions"
+msgstr ""
+
+#: includes/advert-campaigns.php:311
+msgid "Per Person Impressions"
+msgstr ""
+
+#: includes/advert-campaigns.php:331
+msgid "Campaign AdCredits Remaining"
+msgstr ""
+
+#: includes/advert-campaigns.php:362 includes/advert-dashboard-user.php:94
+#: includes/class-advert-analysis-drilldown.php:601
+msgid "Active"
+msgstr ""
+
+#: includes/advert-campaigns.php:363
+msgid "Paused"
+msgstr ""
+
+#: includes/advert-campaigns.php:386
+msgid ""
+"Useful when you manually create a new Campaign and want to attach it to a "
+"user on the site."
+msgstr ""
+
+#: includes/advert-campaigns.php:427
+msgid "Campaign updated."
+msgstr ""
+
+#: includes/advert-campaigns.php:428
+msgid "Campaign started."
+msgstr ""
+
+#: includes/advert-campaigns.php:429
+msgid "Campaign submitted."
+msgstr ""
+
+#: includes/advert-campaigns.php:430
+#, php-format
+msgid "Campaign scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: includes/advert-campaigns.php:431
+msgid "Campaign draft updated."
+msgstr ""
+
+#: includes/advert-campaigns.php:651
+msgid "CID"
+msgstr ""
+
+#: includes/advert-campaigns.php:653
+msgid "Type"
+msgstr ""
+
+#: includes/advert-campaigns.php:654
+#: plugins/paypal/class-advert-paypal-actions.php:181
+msgid "Amount"
+msgstr ""
+
+#: includes/advert-campaigns.php:655
+msgid "Available"
+msgstr ""
+
+#: includes/advert-campaigns.php:656
+msgid "Location(s)"
+msgstr ""
+
+#: includes/advert-campaigns.php:657
+#: includes/class-advert-analysis-drilldown.php:673
+msgid "Start Date"
+msgstr ""
+
+#: includes/advert-campaigns.php:658
+#: includes/class-advert-analysis-drilldown.php:678
+msgid "Stop Date"
+msgstr ""
+
+#: includes/advert-campaigns.php:659
+#: includes/class-advert-analysis-drilldown.php:598
+#: includes/class-advert-analysis-drilldown.php:828
+#: includes/class-advert-analysis-drilldown.php:832
+msgid "Status"
+msgstr ""
+
+#: includes/advert-campaigns.php:726 includes/advert-campaigns.php:730
+msgid "m/j/Y"
+msgstr ""
+
+#: includes/advert-dashboard-user.php:48
+msgid "Your Information"
+msgstr ""
+
+#: includes/advert-dashboard-user.php:58
+msgid "Show on screen"
+msgstr ""
+
+#: includes/advert-dashboard-user.php:73 includes/advert-dashboard-user.php:433
+#: includes/advert-dashboard.php:45
+msgid "Welcome"
+msgstr ""
+
+#: includes/advert-dashboard-user.php:97
+msgid "Inactive"
+msgstr ""
+
+#: includes/advert-dashboard-user.php:144
+msgid "Update Info"
+msgstr ""
+
+#: includes/advert-dashboard-user.php:146
+msgid "Add Info"
+msgstr ""
+
+#: includes/advert-dashboard-user.php:196
+msgid "Enable JavaScript to add AdCredits"
+msgstr ""
+
+#: includes/advert-dashboard-user.php:197
+msgid "Add more AdCredits"
+msgstr ""
+
+#: includes/advert-dashboard-user.php:323
+msgid "Please add your Company name or Title."
+msgstr ""
+
+#: includes/advert-dashboard-user.php:324
+msgid "Please add an email address."
+msgstr ""
+
+#: includes/advert-dashboard-user.php:325
+msgid "Please use a different email address."
+msgstr ""
+
+#: includes/advert-dashboard-user.php:326
+msgid "Please add a telephone number."
+msgstr ""
+
+#: includes/advert-dashboard-user.php:346
+msgid "Your information has been submitted for approval."
+msgstr ""
+
+#: includes/advert-dashboard-user.php:357
+msgid "Your information has been updated and waiting approval."
+msgstr ""
+
+#: includes/advert-dashboard-user.php:358
+msgid "Your information has been updated."
+msgstr ""
+
+#: includes/advert-dashboard-user.php:431
+msgid "Dismiss"
+msgstr ""
+
+#: includes/advert-dashboard-user.php:434 includes/advert-dashboard.php:279
+msgid "We have assembled some links and information to get you started"
+msgstr ""
+
+#: includes/advert-dashboard-user.php:437 includes/advert-dashboard.php:282
+#: includes/class-advert-screentabs.php:73
+#: includes/class-advert-screentabs.php:90
+#: includes/class-advert-screentabs.php:115
+#: includes/class-advert-screentabs.php:139
+#: includes/class-advert-screentabs.php:163
+msgid "Getting Started"
+msgstr ""
+
+#: includes/advert-dashboard-user.php:438
+msgid "Ensure \"Your Information\" is correct below and:"
+msgstr ""
+
+#: includes/advert-dashboard-user.php:440
+msgid "Update your profile"
+msgstr ""
+
+#: includes/advert-dashboard-user.php:444 includes/advert-dashboard.php:297
+msgid "Next Steps"
+msgstr ""
+
+#: includes/advert-dashboard-user.php:446
+msgid "Add a new Banner"
+msgstr ""
+
+#: includes/advert-dashboard-user.php:447
+msgid "Add a new Campaign"
+msgstr ""
+
+#: includes/advert-dashboard-user.php:451 includes/advert-dashboard.php:306
+msgid "More Actions"
+msgstr ""
+
+#: includes/advert-dashboard-user.php:454 includes/advert-dashboard.php:311
+msgid "View Analysis"
+msgstr ""
+
+#: includes/advert-dashboard-user.php:457
+msgid "Add AdCredits"
+msgstr ""
+
+#: includes/advert-dashboard-user.php:459
+msgid "View Transactions"
+msgstr ""
+
+#: includes/advert-dashboard-user.php:460 includes/advert-dashboard.php:313
+msgid "Learn more about AdVert"
+msgstr ""
+
+#: includes/advert-dashboard.php:23
+msgid "AdVert News"
+msgstr ""
+
+#: includes/advert-dashboard.php:24
+msgid "Send Suggestions"
+msgstr ""
+
+#: includes/advert-dashboard.php:25
+msgid "Stay in touch"
+msgstr ""
+
+#: includes/advert-dashboard.php:26
+msgid "Whats new"
+msgstr ""
+
+#: includes/advert-dashboard.php:72
+msgid "No items"
+msgstr ""
+
+#: includes/advert-dashboard.php:103
+msgid "Send your site URL and email address for correspondence?"
+msgstr ""
+
+#: includes/advert-dashboard.php:107
+msgid "Optionally, you can visit the AdVert site"
+msgstr ""
+
+#: includes/advert-dashboard.php:121
+msgid "Get the latest news, tips and updates from AdVert for WordPress."
+msgstr ""
+
+#: includes/advert-dashboard.php:126
+msgid "Your email will not be shared with anyone"
+msgstr ""
+
+#: includes/advert-dashboard.php:214
+msgid "Your suggestions have been sent, Thank You."
+msgstr ""
+
+#: includes/advert-dashboard.php:219
+msgid "Please add your suggestion(s) before submitting."
+msgstr ""
+
+#: includes/advert-dashboard.php:278
+msgid "Welcome to AdVert"
+msgstr ""
+
+#: includes/advert-dashboard.php:283
+#: includes/class-advert-control-panel.php:285
+msgid "General Settings"
+msgstr ""
+
+#: includes/advert-dashboard.php:285
+#: includes/class-advert-control-panel.php:423
+msgid "User Settings"
+msgstr ""
+
+#: includes/advert-dashboard.php:287
+#: includes/class-advert-control-panel.php:498
+msgid "Ad Settings"
+msgstr ""
+
+#: includes/advert-dashboard.php:291
+msgid "Not set"
+msgstr ""
+
+#: includes/advert-dashboard.php:292
+#, php-format
+msgid ""
+"Your current timezone is: <strong>%s</strong>. AdVert will use the timezone "
+"to track, update and manage your advertisements. If needed, you can update "
+"your timezone <a href=\"%s\">here</a>"
+msgstr ""
+
+#: includes/advert-dashboard.php:309
+msgid "Add an AdVert"
+msgstr ""
+
+#: includes/advert-dashboard.php:309
+msgid "widget"
+msgstr ""
+
+#: includes/advert-dashboard.php:312
+msgid "Banner Categories"
+msgstr ""
+
+#: includes/advert-locations.php:5
+msgid "Location Info"
+msgstr ""
+
+#: includes/advert-locations.php:6
+msgid "Image Ads"
+msgstr ""
+
+#: includes/advert-locations.php:7
+msgid "Video Ads"
+msgstr ""
+
+#: includes/advert-locations.php:8
+msgid "Text Ads"
+msgstr ""
+
+#: includes/advert-locations.php:29
+msgid "Width and height of this location"
+msgstr ""
+
+#: includes/advert-locations.php:46
+msgid "Enforce width or height for this location."
+msgstr ""
+
+#: includes/advert-locations.php:47
+msgid "(For responsive, leave <strong>Enforce</strong> unchecked)"
+msgstr ""
+
+#: includes/advert-locations.php:51
+msgid "Price of this location"
+msgstr ""
+
+#: includes/advert-locations.php:56
+msgid "Location flow"
+msgstr ""
+
+#: includes/advert-locations.php:57
+msgid ""
+"Selecting Random will discard the campaigns priority and select a campaign "
+"randomly"
+msgstr ""
+
+#: includes/advert-locations.php:60 includes/advert-locations.php:282
+msgid "Random"
+msgstr ""
+
+#: includes/advert-locations.php:77
+msgid "Allow Image Ads for this location"
+msgstr ""
+
+#: includes/advert-locations.php:95
+msgid "Allow Video Ads for this location"
+msgstr ""
+
+#: includes/advert-locations.php:99
+msgid "Video Duration"
+msgstr ""
+
+#: includes/advert-locations.php:101
+msgid "maximum duration in seconds"
+msgstr ""
+
+#: includes/advert-locations.php:121
+msgid "Allow Text Ads for this location"
+msgstr ""
+
+#: includes/advert-locations.php:124
+msgid "Characters Available - Max 800 characters per line if left empty"
+msgstr ""
+
+#: includes/advert-locations.php:136
+msgid "HTML to display before the text"
+msgstr ""
+
+#: includes/advert-locations.php:141
+msgid "HTML to display after the text"
+msgstr ""
+
+#: includes/advert-locations.php:157
+msgid "Location updated."
+msgstr ""
+
+#: includes/advert-locations.php:158
+msgid "Location published."
+msgstr ""
+
+#: includes/advert-locations.php:159
+msgid "Location submitted."
+msgstr ""
+
+#: includes/advert-locations.php:160
+#, php-format
+msgid "Location scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: includes/advert-locations.php:161
+msgid "Location draft updated."
+msgstr ""
+
+#: includes/advert-locations.php:256
+msgid "LID"
+msgstr ""
+
+#: includes/advert-locations.php:257
+msgid "Price"
+msgstr ""
+
+#: includes/advert-locations.php:258
+msgid "Rotation"
+msgstr ""
+
+#: includes/advert-locations.php:259
+msgid "Shortcode"
+msgstr ""
+
+#: includes/advert-post-metabox.php:40
+msgid "Save"
+msgstr ""
+
+#: includes/advert-post-metabox.php:48
+msgid "Status:"
+msgstr ""
+
+#: includes/advert-post-metabox.php:53 includes/advert-post-metabox.php:85
+msgid "Privately Published"
+msgstr ""
+
+#: includes/advert-post-metabox.php:56 includes/advert-post-metabox.php:83
+msgid "Published"
+msgstr ""
+
+#: includes/advert-post-metabox.php:59 includes/advert-post-metabox.php:87
+msgid "Scheduled"
+msgstr ""
+
+#: includes/advert-post-metabox.php:62 includes/advert-post-metabox.php:89
+msgid "Pending Review"
+msgstr ""
+
+#: includes/advert-post-metabox.php:66
+#: includes/class-advert-analysis-drilldown.php:602
+msgid "Archived"
+msgstr ""
+
+#: includes/advert-post-metabox.php:71 includes/advert-post-metabox.php:94
+#: includes/advert-post-metabox.php:96
+msgid "Draft"
+msgstr ""
+
+#: includes/advert-post-metabox.php:77 includes/advert-post-metabox.php:160
+msgid "Edit"
+msgstr ""
+
+#: includes/advert-post-metabox.php:77
+msgid "Edit status"
+msgstr ""
+
+#: includes/advert-post-metabox.php:91 includes/class-advert-post-types.php:340
+msgid "Archive"
+msgstr ""
+
+#: includes/advert-post-metabox.php:99
+msgid "OK"
+msgstr ""
+
+#: includes/advert-post-metabox.php:100
+msgid "Cancel"
+msgstr ""
+
+#: includes/advert-post-metabox.php:107
+msgid "Visibility:"
+msgstr ""
+
+#: includes/advert-post-metabox.php:110
+msgid "Public"
+msgstr ""
+
+#: includes/advert-post-metabox.php:122
+#, php-format
+msgid "Scheduled for: <b>%1$s</b>"
+msgstr ""
+
+#: includes/advert-post-metabox.php:124
+#, php-format
+msgid "Published on: <b>%1$s</b>"
+msgstr ""
+
+#: includes/advert-post-metabox.php:126 includes/advert-post-metabox.php:134
+msgid "Publish <b>immediately</b>"
+msgstr ""
+
+#: includes/advert-post-metabox.php:128
+#, php-format
+msgid "Schedule for: <b>%1$s</b>"
+msgstr ""
+
+#: includes/advert-post-metabox.php:130
+#, php-format
+msgid "Publish on: <b>%1$s</b>"
+msgstr ""
+
+#: includes/advert-post-metabox.php:144
+#, php-format
+msgid "Your site is configured to keep only the last %s revisions."
+msgstr ""
+
+#: includes/advert-post-metabox.php:146 includes/advert-post-metabox.php:149
+#, php-format
+msgid "Revisions: %s"
+msgstr ""
+
+#: includes/advert-post-metabox.php:152
+msgid "Browse revisions"
+msgstr ""
+
+#: includes/advert-post-metabox.php:160
+msgid "Edit date and time"
+msgstr ""
+
+#: includes/advert-post-metabox.php:202
+msgid "Publish"
+msgstr ""
+
+#: includes/advert-post-metabox.php:206
+msgid "Submit for Review"
+msgstr ""
+
+#: includes/advert-setup.php:374
+msgid "Before Content"
+msgstr ""
+
+#: includes/advert-setup.php:375
+msgid "before_content"
+msgstr ""
+
+#: includes/advert-setup.php:382
+msgid "After Content"
+msgstr ""
+
+#: includes/advert-setup.php:383
+msgid "after_content"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:282
+#: includes/class-advert-analysis-drilldown.php:313
+#: includes/class-advert-analysis-drilldown.php:360
+#: includes/class-advert-analysis-drilldown.php:629
+msgid "(Deleted)"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:587
+msgid "Analysis Options"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:600
+#: includes/class-advert-analysis-drilldown.php:832
+msgid "Any"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:615
+#: includes/class-advert-post-types.php:289
+msgid "All Locations"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:651
+#: includes/class-advert-post-types.php:164
+msgid "All Advertisers"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:658
+#: includes/class-advert-analysis-drilldown.php:817
+msgid "Campaign"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:660
+#: includes/class-advert-post-types.php:223
+msgid "All Campaigns"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:665
+#: includes/class-advert-analysis-drilldown.php:812
+msgid "Banner"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:667
+#: includes/class-advert-post-types.php:104
+msgid "All Banners"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:674
+#: includes/class-advert-analysis-drilldown.php:679
+msgid "mm/dd/yyyy"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:683
+msgid "Submit"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:778
+#: includes/class-advert-analysis.php:103
+#: includes/class-advert-screentabs.php:29
+#: includes/class-advert-screentabs.php:48
+#: includes/class-advert-screentabs.php:66
+#: includes/class-advert-screentabs.php:83
+#: includes/class-advert-screentabs.php:108
+#: includes/class-advert-screentabs.php:132
+#: includes/class-advert-screentabs.php:156
+#: includes/class-advert-screentabs.php:181
+#: includes/class-advert-screentabs.php:198
+#: includes/class-advert-screentabs.php:215
+#: includes/class-advert-screentabs.php:232
+#: includes/class-advert-screentabs.php:252
+#: includes/class-advert-screentabs.php:269
+msgid "Overview"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:779
+#: includes/class-advert-analysis.php:104
+msgid "Drilldown"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:803
+msgid "&nbsp;to&nbsp;"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:807
+msgid "from"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:827
+#: includes/class-advert-analysis-drilldown.php:831
+msgid "&nbsp;> Past 24 hours"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:843
+#, php-format
+msgid "Status: Any > Advertiser : %1$s > Past 24 hours"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:847
+msgid "Status: Any > Past 24 hours"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:858
+msgid "Enable JavaScript for additional options"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:862
+msgid "Nothing found"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:881
+msgid "Total Clicks"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:890
+msgid "Clickthrough Rate"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:902
+msgid "Total Charged from Impressions"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:902
+msgid "Total Earned from Impressions"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:911
+msgid "Total Charged from Clicks"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:911
+msgid "Total Earned from Clicks"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:998
+#: includes/class-advert-analysis-drilldown.php:1010
+#: includes/class-advert-analysis-drilldown.php:1031
+msgid "ADDRESS"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:999
+#: includes/class-advert-analysis-drilldown.php:1011
+#: includes/class-advert-analysis-drilldown.php:1032
+msgid "BROWSER"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:1000
+#: includes/class-advert-analysis-drilldown.php:1012
+#: includes/class-advert-analysis-drilldown.php:1033
+msgid "DEVICE"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:1001
+#: includes/class-advert-analysis-drilldown.php:1013
+#: includes/class-advert-analysis-drilldown.php:1034
+msgid "AD LOG"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:1002
+#: includes/class-advert-analysis-drilldown.php:1014
+#: includes/class-advert-analysis-drilldown.php:1035
+msgid "LOCATION"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:1003
+#: includes/class-advert-analysis-drilldown.php:1015
+#: includes/class-advert-analysis-drilldown.php:1036
+msgid "CAMP ID"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:1004
+#: includes/class-advert-analysis-drilldown.php:1016
+#: includes/class-advert-analysis-drilldown.php:1037
+msgid "BANNER ID"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:1005
+#: includes/class-advert-analysis-drilldown.php:1017
+#: includes/class-advert-analysis-drilldown.php:1038
+msgid "ADVERT ID"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:1006
+#: includes/class-advert-analysis-drilldown.php:1018
+#: includes/class-advert-analysis-drilldown.php:1039
+msgid "PRICE"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:1007
+#: includes/class-advert-analysis-drilldown.php:1019
+#: includes/class-advert-analysis-drilldown.php:1040
+msgid "TIME"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:1008
+#: includes/class-advert-analysis-drilldown.php:1020
+#: includes/class-advert-analysis-drilldown.php:1041
+msgid "URL"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:1068
+msgid ""
+"i = Impression, c = Click, f-1 = Feedback Relevant, f-2 = Feedback Not "
+"Relevant, f-3 = Feedback Displayed too much, Price = Amount of AdCredits "
+"charged"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:1070
+msgid "View Data in new window"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:1070
+msgid "Export Data to CSV"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:1072
+msgid "User Feedback"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:1076
+#: includes/class-advert-shortcode.php:359
+#: includes/class-advert-shortcode.php:363
+#: includes/class-advert-shortcode.php:367
+#: includes/class-advert-shortcode.php:371
+msgid "Relevant"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:1081
+#: includes/class-advert-shortcode.php:359
+#: includes/class-advert-shortcode.php:363
+#: includes/class-advert-shortcode.php:367
+#: includes/class-advert-shortcode.php:371
+msgid "Not Relevant"
+msgstr ""
+
+#: includes/class-advert-analysis-drilldown.php:1086
+#: includes/class-advert-shortcode.php:359
+#: includes/class-advert-shortcode.php:363
+#: includes/class-advert-shortcode.php:367
+#: includes/class-advert-shortcode.php:371
+msgid "Displayed too much"
+msgstr ""
+
+#: includes/class-advert-analysis.php:123
+msgid "Today"
+msgstr ""
+
+#: includes/class-advert-analysis.php:124
+msgid "Yesterday"
+msgstr ""
+
+#: includes/class-advert-analysis.php:125
+msgid "Past Week"
+msgstr ""
+
+#: includes/class-advert-analysis.php:126
+msgid "Past Month"
+msgstr ""
+
+#: includes/class-advert-analysis.php:127
+msgid "Year to Date"
+msgstr ""
+
+#: includes/class-advert-analysis.php:128
+msgid "Past Year"
+msgstr ""
+
+#: includes/class-advert-analysis.php:129
+msgid "All"
+msgstr ""
+
+#: includes/class-advert-analysis.php:141
+msgid "Charges"
+msgstr ""
+
+#: includes/class-advert-analysis.php:141
+msgid "Earnings"
+msgstr ""
+
+#: includes/class-advert-analysis.php:160
+msgid "Active Advertisers"
+msgstr ""
+
+#: includes/class-advert-analysis.php:177
+#: includes/class-advert-analysis.php:178
+msgid "Pending Advertisers"
+msgstr ""
+
+#: includes/class-advert-analysis.php:209
+#: includes/class-advert-analysis.php:210
+msgid "Pending Campaigns"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:17
+msgid "Control Panel - General"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:17
+#: includes/class-advert-control-panel.php:18
+#: includes/class-advert-control-panel.php:19
+#: includes/class-advert-control-panel.php:50
+#: includes/class-advert-control-panel.php:135
+#: includes/class-advert-control-panel.php:218
+#: public/advert-frontend-functions.php:275
+msgid "Control Panel"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:18
+msgid "Control Panel - Users"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:19
+msgid "Control Panel - Ads"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:55
+#: includes/class-advert-control-panel.php:140
+#: includes/class-advert-control-panel.php:223
+msgid "General"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:56
+#: includes/class-advert-control-panel.php:141
+#: includes/class-advert-control-panel.php:224
+msgid "Users"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:57
+#: includes/class-advert-control-panel.php:142
+#: includes/class-advert-control-panel.php:225
+msgid "Ads"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:87
+msgid ""
+"If you enjoy using AdVert, consider donating for continued plugin support "
+"and updates. If you are not able to make a donation right now, thats ok. You "
+"can <a href=\"https://wordpress.org/support/view/plugin-reviews/advert/\" "
+"target=\"_blank\">Rate AdVert</a>, enable the AdVert link above or tell "
+"people about AdVert for WordPress. AdVert will never offer a premium or pro "
+"version."
+msgstr ""
+
+#: includes/class-advert-control-panel.php:172
+#: includes/class-advert-control-panel.php:255
+msgid ""
+"If you enjoy using AdVert, consider donating for continued plugin support "
+"and updates. If you are not able to make a donation right now, thats ok. You "
+"can <a href=\"https://wordpress.org/support/view/plugin-reviews/advert/\" "
+"target=\"_blank\">Rate AdVert</a>, enable the AdVert link on the General Tab "
+"or tell people about AdVert for WordPress. AdVert will never offer a premium "
+"or pro version."
+msgstr ""
+
+#: includes/class-advert-control-panel.php:292
+msgid "Send Email Notifications For Pending Items"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:301
+msgid "Send Email Notifications For Published Items"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:314
+msgid "Payments"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:338
+msgid "Payment Method"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:358
+msgid "Advanced Settings"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:365
+msgid "Restore Standard Locations"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:369
+msgid ""
+"This feature will attempt to restore standard locations. These are added "
+"when you install AdVert."
+msgstr ""
+
+#: includes/class-advert-control-panel.php:374
+msgid "Turn off Locked Rates"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:378
+msgid ""
+"Warning: This feature turns off locked in rates. Locations prices can be "
+"changed without notice to the advertiser. Meaning: this could make some "
+"advertisers livid."
+msgstr ""
+
+#: includes/class-advert-control-panel.php:383
+msgid "Turn off AdVert"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:387
+msgid "Warning: This feature turns off AdVert, i.e. no ads will be displayed."
+msgstr ""
+
+#: includes/class-advert-control-panel.php:392
+msgid "Empty AdVert Database"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:402
+msgid "AdVert for WordPress"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:409
+msgid "Display about AdVert link below feedback (if enabled)"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:430
+msgid "Allow Users to register to become an Advertiser"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:439
+msgid "Text that is displayed to the user who wants to start advertising"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:448
+msgid ""
+"Allow Users to view historical data Analysis - Only the users data is shown"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:457
+msgid "Allow Users to select these pricing models"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:468
+msgid "AdVert Manager Settings"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:475
+msgid "Add/Remove AdCredits"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:484
+msgid "Add a new location"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:505
+msgid "Allow Ad Feedback"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:509
+msgid ""
+"Gives your visitors a way to provide feedback about ads being displayed."
+msgstr ""
+
+#: includes/class-advert-control-panel.php:514
+msgid "Hide Ads that have negative user feedback"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:518
+msgid ""
+"If an ad received negative feedback, hide that particular ad from that user "
+"who gave negative feedback."
+msgstr ""
+
+#: includes/class-advert-control-panel.php:523
+msgid "Display Advertisement above the Banner"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:527
+msgid ""
+"Displays the word Advertisement above the ad, which helps users identify ads "
+"vs content. This helps prevent useless clicks for the advertiser."
+msgstr ""
+
+#: includes/class-advert-control-panel.php:532
+msgid "Prevent spammed clicks"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:541
+msgid "Display Notice for empty ad spaces"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:550
+msgid "Notice for empty ad spaces"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:559
+msgid "Allow Editors to turn off advertisements by post/page"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:563
+msgid "Warning: Editors will be able to disable ads for the page or post."
+msgstr ""
+
+#: includes/class-advert-control-panel.php:568
+msgid "Turn off ads by post type"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:591
+msgid "Hide Videos after played"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:607
+#: includes/class-advert-control-panel.php:715
+msgid "Blocking Ads"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:614
+msgid "Display Notice If Visitor Is Blocking Ads"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:623
+msgid "Message To Display To Visitor Blocking Ads"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:636
+msgid "Advanced Ad Settings"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:643
+msgid "Disable Ad Tracking for logged in users"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:647
+msgid ""
+"Warning: Clicks, Impressions and Feedback will not be added to the database "
+"for logged in users."
+msgstr ""
+
+#: includes/class-advert-control-panel.php:652
+msgid "Disable Ad Tracking <br />(clicks, impressions etc.)"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:656
+msgid ""
+"Warning: Clicks, Impressions and Feedback will be disabled and not be added "
+"to the database."
+msgstr ""
+
+#: includes/class-advert-control-panel.php:661
+msgid "AdVert Encryption Key"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:675
+msgid "As the title states, these are general settings for AdVert"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:679
+msgid "Select a payment option for AdVert users"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:683
+msgid ""
+"Most of these settings are self-explanitory, but when in doubt click the "
+"help tab above for more information - Only site admins can see this section"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:687
+msgid "Optional stuff to show your support of AdVert for WordPress"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:691
+msgid "Change settings for users"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:695
+msgid "Change settings for AdVert Managers"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:699
+msgid "General Ad Settings"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:703
+msgid "Banners that are images"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:707
+msgid "Banners that are videos"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:711
+msgid "Banners that are text"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:719
+msgid "Ad Flow"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:826
+#: includes/class-advert-multisite.php:311
+msgid "Standard Locations have been restored"
+msgstr ""
+
+#: includes/class-advert-control-panel.php:863
+msgid ""
+"Warning: Selecting this option will remove all the data from the AdVert "
+"database table (advert_logged), payment information will not be affected. "
+"Its recomended that you backup your database before continuing."
+msgstr ""
+
+#: includes/class-advert-multisite.php:39
+msgid "AdVert Network Setup"
+msgstr ""
+
+#: includes/class-advert-multisite.php:39
+#: includes/class-advert-multisite.php:65
+msgid "Network Setup"
+msgstr ""
+
+#: includes/class-advert-multisite.php:94
+msgid ""
+"If you enjoy using AdVert, consider donating for continued plugin support "
+"and updates. If you are not able to make a donation right now, thats ok. You "
+"can <a href=\"https://wordpress.org/support/view/plugin-reviews/advert/\" "
+"target=\"_blank\">Rate AdVert</a>, enable the AdVert link in the Control "
+"Panel or tell people about AdVert for WordPress. AdVert will never offer a "
+"premium or pro version."
+msgstr ""
+
+#: includes/class-advert-multisite.php:127
+msgid "Type of AdVert Network"
+msgstr ""
+
+#: includes/class-advert-multisite.php:134
+msgid "How do you want to use AdVert on Multisite"
+msgstr ""
+
+#: includes/class-advert-multisite.php:138
+msgid "Connected AdVert Network"
+msgstr ""
+
+#: includes/class-advert-multisite.php:138
+msgid "Independent AdVert Network"
+msgstr ""
+
+#: includes/class-advert-multisite.php:146
+msgid "Set default site for your network (optional)"
+msgstr ""
+
+#: includes/class-advert-multisite.php:150
+#, php-format
+msgid ""
+"The default site will always be %s (%s) unless you add a different default "
+"site. If using a Connected AdVert Network, your default site will be used to "
+"manage advertisements and settings across all sites."
+msgstr ""
+
+#: includes/class-advert-multisite.php:157
+msgid "Disable AdVert for the following sites"
+msgstr ""
+
+#: includes/class-advert-multisite.php:168
+msgid "Use Connected AdVert Network for sites that are disabled"
+msgstr ""
+
+#: includes/class-advert-multisite.php:179
+msgid "Use Connected AdVert Network for sites that have no active campiagns"
+msgstr ""
+
+#: includes/class-advert-multisite.php:196
+msgid "Choose the type of AdVert Network"
+msgstr ""
+
+#: includes/class-advert-multisite.php:200
+msgid "Choose the type of AdVert Network for all sites"
+msgstr ""
+
+#: includes/class-advert-multisite.php:340
+msgid ""
+"Warning: Selecting this option will remove all the data from the AdVert "
+"database table. Its recomended that you backup your database before "
+"continuing."
+msgstr ""
+
+#: includes/class-advert-post-page-metaboxes.php:36
+msgid "AdVert Advertisements"
+msgstr ""
+
+#: includes/class-advert-post-page-metaboxes.php:109
+msgid "Turn off Advertisements for this post/page"
+msgstr ""
+
+#: includes/class-advert-post-page-metaboxes.php:113
+msgid "AdVert Tip: This turns off all advertisements for this page or post."
+msgstr ""
+
+#: includes/class-advert-post-types.php:59
+msgid "Search Categories"
+msgstr ""
+
+#: includes/class-advert-post-types.php:60
+msgid "All Categories"
+msgstr ""
+
+#: includes/class-advert-post-types.php:61
+msgid "Parent Category"
+msgstr ""
+
+#: includes/class-advert-post-types.php:62
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/class-advert-post-types.php:63
+msgid "Edit Category"
+msgstr ""
+
+#: includes/class-advert-post-types.php:64
+msgid "Update Category"
+msgstr ""
+
+#: includes/class-advert-post-types.php:65
+msgid "Add New Category"
+msgstr ""
+
+#: includes/class-advert-post-types.php:66
+msgid "New Category"
+msgstr ""
+
+#: includes/class-advert-post-types.php:67
+msgid "Category"
+msgstr ""
+
+#: includes/class-advert-post-types.php:100
+msgid "Add New Banner"
+msgstr ""
+
+#: includes/class-advert-post-types.php:101
+msgid "New Banner"
+msgstr ""
+
+#: includes/class-advert-post-types.php:102
+msgid "Edit Banner"
+msgstr ""
+
+#: includes/class-advert-post-types.php:103
+msgid "View Banner"
+msgstr ""
+
+#: includes/class-advert-post-types.php:105
+msgid "Search Banners"
+msgstr ""
+
+#: includes/class-advert-post-types.php:106
+msgid "Parent Banners:"
+msgstr ""
+
+#: includes/class-advert-post-types.php:107
+msgid "No Banners found."
+msgstr ""
+
+#: includes/class-advert-post-types.php:108
+msgid "No Banners found in Trash."
+msgstr ""
+
+#: includes/class-advert-post-types.php:160
+msgid "Add New Advertiser"
+msgstr ""
+
+#: includes/class-advert-post-types.php:161
+msgid "New Advertiser"
+msgstr ""
+
+#: includes/class-advert-post-types.php:162
+msgid "Edit Advertiser"
+msgstr ""
+
+#: includes/class-advert-post-types.php:163
+msgid "View Advertiser"
+msgstr ""
+
+#: includes/class-advert-post-types.php:165
+msgid "Search Advertisers"
+msgstr ""
+
+#: includes/class-advert-post-types.php:166
+msgid "Parent Advertisers:"
+msgstr ""
+
+#: includes/class-advert-post-types.php:167
+msgid "No Advertisers found."
+msgstr ""
+
+#: includes/class-advert-post-types.php:168
+msgid "No Advertisers found in Trash."
+msgstr ""
+
+#: includes/class-advert-post-types.php:219
+msgid "Add New Campaign"
+msgstr ""
+
+#: includes/class-advert-post-types.php:220
+msgid "New Campaign"
+msgstr ""
+
+#: includes/class-advert-post-types.php:221
+msgid "Edit Campaign"
+msgstr ""
+
+#: includes/class-advert-post-types.php:222
+msgid "View Campaign"
+msgstr ""
+
+#: includes/class-advert-post-types.php:224
+msgid "Search Campaigns"
+msgstr ""
+
+#: includes/class-advert-post-types.php:225
+msgid "Parent Campaigns:"
+msgstr ""
+
+#: includes/class-advert-post-types.php:226
+msgid "No Campaigns found."
+msgstr ""
+
+#: includes/class-advert-post-types.php:227
+msgid "No Campaigns found in Trash."
+msgstr ""
+
+#: includes/class-advert-post-types.php:285
+msgid "Add New Location"
+msgstr ""
+
+#: includes/class-advert-post-types.php:286
+msgid "New Location"
+msgstr ""
+
+#: includes/class-advert-post-types.php:287
+msgid "Edit Location"
+msgstr ""
+
+#: includes/class-advert-post-types.php:288
+msgid "View Location"
+msgstr ""
+
+#: includes/class-advert-post-types.php:290
+msgid "Search Locations"
+msgstr ""
+
+#: includes/class-advert-post-types.php:291
+msgid "Parent Locations:"
+msgstr ""
+
+#: includes/class-advert-post-types.php:292
+msgid "No locations found."
+msgstr ""
+
+#: includes/class-advert-post-types.php:293
+msgid "No locations found in Trash."
+msgstr ""
+
+#: includes/class-advert-post-types.php:344
+msgid "Unarchive"
+msgstr ""
+
+#: includes/class-advert-screentabs.php:23
+msgid ""
+"<p>For more information:</p><p><a href=\"https://norths.co/advert/"
+"documentation/#dashboard\">AdVert Documentation</a></p><p><a href=\"https://"
+"norths.co/advert/support/\">AdVert Support Forum</a></p>"
+msgstr ""
+
+#: includes/class-advert-screentabs.php:30
+msgid ""
+"The Dashboard shows the latest AdVert news, provides an option for "
+"suggestions or feedback, displays the latest updates and lets you subscribe "
+"to AdVert. A welcome panel is also included for people new to AdVert, which "
+"helps walk you through the process of creating a new advertisement from "
+"start to finish."
+msgstr ""
+
+#: includes/class-advert-screentabs.php:42
+msgid ""
+"<p>For more information:</p><p><a href=\"https://norths.co/advert/"
+"documentation/#user-dashboard\">AdVert Documentation</a></p><p><a href="
+"\"https://norths.co/advert/support/\">AdVert Support Forum</a></p>"
+msgstr ""
+
+#: includes/class-advert-screentabs.php:49
+msgid ""
+"The Dashboard allows you to add AdCredits, view recent transaction history "
+"and update your advertising information. A welcome panel is also included if "
+"your are new to AdVert, which helps walk you through the process of creating "
+"a new advertisement from start to finish."
+msgstr ""
+
+#: includes/class-advert-screentabs.php:58
+msgid ""
+"<p>For more information:</p><p><a href=\"https://norths.co/advert/"
+"documentation/#banners\">Documentation on Banners</a></p><p><a href="
+"\"https://norths.co/advert/support/\">AdVert Support Forum</a></p>"
+msgstr ""
+
+#: includes/class-advert-screentabs.php:67
+msgid ""
+"The Banner is the actual advertisement being displayed to the end user "
+"(image, video or text). Depending on your settings in the AdVert Control "
+"Panel, the end user can be a visitor, member or both."
+msgstr ""
+
+#: includes/class-advert-screentabs.php:74
+msgid ""
+"If you have no Banners, click the Add New button near the top of the page, "
+"below this Help area. From there, complete the form and click save Draft, "
+"Publish or Update.<br /><br />You will need to have at least one published "
+"Advertiser and one published Location to complete the Banner setup. Once the "
+"Banner is published, you will then need to publish a campaign with the "
+"desired Banner."
+msgstr ""
+
+#: includes/class-advert-screentabs.php:84
+msgid ""
+"The Banner is the actual advertisement being displayed to the end user "
+"(image, video or text). Depending on settings, the end user can be a "
+"visitor, member or both."
+msgstr ""
+
+#: includes/class-advert-screentabs.php:91
+msgid ""
+"If you have no Banners, click the Add New button near the top of the page, "
+"below this Help area.<br /><br />From there, complete the form and click "
+"save Draft, Submit for Review or Update. Once the Banner is published, you "
+"will then need a campaign with the desired Banner."
+msgstr ""
+
+#: includes/class-advert-screentabs.php:102
+msgid ""
+"<p>For more information:</p><p><a href=\"https://norths.co/advert/"
+"documentation/#advertisers\">Documentation on Advertisers</a></p><p><a href="
+"\"https://norths.co/advert/support/\">AdVert Support Forum</a></p>"
+msgstr ""
+
+#: includes/class-advert-screentabs.php:109
+msgid ""
+"Advertisers are the main component that links the Banner and Campaign "
+"together."
+msgstr ""
+
+#: includes/class-advert-screentabs.php:116
+msgid ""
+"If you have no Advertisers, click the Add New button near the top of the "
+"page, below this Help area.<br /><br />From there, complete the form, then "
+"Publish the Advertiser. Once the Advertiser is published, you will need to "
+"verify you have Locations available and then create an Banner and Campaign."
+msgstr ""
+
+#: includes/class-advert-screentabs.php:126
+msgid ""
+"<p>For more information:</p><p><a href=\"https://norths.co/advert/"
+"documentation/#campaigns\">Documentation on Campaigns</a></p><p><a href="
+"\"https://norths.co/advert/support/\">AdVert Support Forum</a></p>"
+msgstr ""
+
+#: includes/class-advert-screentabs.php:133
+msgid ""
+"The Campaign essentially pieces everything together, taking the information "
+"from the Advertiser and Banners and presenting it into the queue of what "
+"will be displayed on the website. This queue can change depending on the "
+"Banner priority, Campaign priority and Location flow. The Campaign is part "
+"of the Advertisement Process Flow."
+msgstr ""
+
+#: includes/class-advert-screentabs.php:140
+msgid ""
+"If you have no Campaigns, click the Add New button near the top of the page, "
+"below this Help area.<br /><br />There needs to be at least one Banner "
+"available to complete the Campaign form."
+msgstr ""
+
+#: includes/class-advert-screentabs.php:150
+msgid ""
+"<p>For more information:</p><p><a href=\"https://norths.co/advert/"
+"documentation/#locations\">Documentation on Locations</a></p><p><a href="
+"\"https://norths.co/advert/support/\">AdVert Support Forum</a></p>"
+msgstr ""
+
+#: includes/class-advert-screentabs.php:157
+msgid ""
+"The Location is the primary starter for the Advertisement Process Flow, "
+"allowing Locations to be assigned a shortcode to perform all the necessary "
+"tasks to display a Campaign. There are several options for Locations, which "
+"determine the type and flow of Campaigns and there attached Banners."
+msgstr ""
+
+#: includes/class-advert-screentabs.php:164
+msgid ""
+"If you have no Locations, click the Add New button near the top of the page, "
+"below this Help area. There needs to be at least one Location published to "
+"create new Banners and Campaigns (which display the Advertisements)."
+msgstr ""
+
+#: includes/class-advert-screentabs.php:175
+msgid ""
+"<p>For more information:</p><p><a href=\"https://norths.co/advert/"
+"documentation/#control-panel-settings\">Documentation on General Settings</"
+"a></p><p><a href=\"https://norths.co/advert/support/\">AdVert Support Forum</"
+"a></p>"
+msgstr ""
+
+#: includes/class-advert-screentabs.php:182
+#: includes/class-advert-screentabs.php:199
+#: includes/class-advert-screentabs.php:216
+msgid ""
+"These are the settings that control how your advertisements will be "
+"displayed, how users will interact with AdVert and many other options. "
+"Before doing anything else, review these settings and make necessary changes "
+"if needed."
+msgstr ""
+
+#: includes/class-advert-screentabs.php:192
+msgid ""
+"<p>For more information:</p><p><a href=\"https://norths.co/advert/"
+"documentation/#control-panel-settings\">Documentation on User Settings</a></"
+"p><p><a href=\"https://norths.co/advert/support/\">AdVert Support Forum</a></"
+"p>"
+msgstr ""
+
+#: includes/class-advert-screentabs.php:209
+msgid ""
+"<p>For more information:</p><p><a href=\"https://norths.co/advert/"
+"documentation/#control-panel-settings\">Documentation on Ad Settings</a></"
+"p><p><a href=\"https://norths.co/advert/support/\">AdVert Support Forum</a></"
+"p>"
+msgstr ""
+
+#: includes/class-advert-screentabs.php:226
+msgid ""
+"<p>For more information:</p><p><a href=\"https://norths.co/advert/"
+"documentation/#analysis-and-drilldown\">Documentation on Analysis Overview</"
+"a></p><p><a href=\"https://norths.co/advert/support/\">AdVert Support Forum</"
+"a></p>"
+msgstr ""
+
+#: includes/class-advert-screentabs.php:233
+msgid ""
+"This is a brief overview of how your advertisements are performing, number "
+"of Advertisers and Campaigns. You can specify a range of performance using "
+"the filter."
+msgstr ""
+
+#: includes/class-advert-screentabs.php:246
+msgid ""
+"<p>For more information:</p><p><a href=\"https://norths.co/advert/"
+"documentation/#analysis-and-drilldown\">Documentation on Analysis Drilldown</"
+"a></p><p><a href=\"https://norths.co/advert/support/\">AdVert Support Forum</"
+"a></p>"
+msgstr ""
+
+#: includes/class-advert-screentabs.php:253
+msgid ""
+"This is an in-depth analysis of your advertisements, with the ability to "
+"drilldown to specifics. A date range can be set within the query to limit "
+"the results."
+msgstr ""
+
+#: includes/class-advert-screentabs.php:263
+msgid ""
+"<p>For more information:</p><p><a href=\"https://norths.co/advert/"
+"documentation/#transactions\">Documentation on Transactions</a></p><p><a "
+"href=\"https://norths.co/advert/support/\">AdVert Support Forum</a></p>"
+msgstr ""
+
+#: includes/class-advert-screentabs.php:270
+msgid ""
+"A detailed look at the transaction history, with several groupings to "
+"identify the date, reason and amount of AdCredits removed or added."
+msgstr ""
+
+#: includes/class-advert-shortcode.php:359
+#: includes/class-advert-shortcode.php:363
+#: includes/class-advert-shortcode.php:375
+msgid "Advertisement"
+msgstr ""
+
+#: includes/class-advert-shortcode.php:359
+#: includes/class-advert-shortcode.php:363
+#: includes/class-advert-shortcode.php:367
+#: includes/class-advert-shortcode.php:371
+msgid "AdVert Feedback"
+msgstr ""
+
+#: includes/class-advert-shortcode.php:359
+#: includes/class-advert-shortcode.php:363
+#: includes/class-advert-shortcode.php:367
+#: includes/class-advert-shortcode.php:371
+msgid "Close Feedback"
+msgstr ""
+
+#: includes/class-advert-shortcode.php:359
+#: includes/class-advert-shortcode.php:363
+#: includes/class-advert-shortcode.php:367
+#: includes/class-advert-shortcode.php:371
+msgid "This Ad is:"
+msgstr ""
+
+#: includes/class-advert-shortcode.php:359
+#: includes/class-advert-shortcode.php:363
+#: includes/class-advert-shortcode.php:367
+#: includes/class-advert-shortcode.php:371
+msgid "Thank you for your feedback"
+msgstr ""
+
+#: includes/class-advert-shortcode.php:359
+#: includes/class-advert-shortcode.php:363
+#: includes/class-advert-shortcode.php:367
+#: includes/class-advert-shortcode.php:371
+msgid "Your feedback has been updated"
+msgstr ""
+
+#: includes/class-advert-shortcode.php:359
+#: includes/class-advert-shortcode.php:367
+#: public/advert-frontend-functions.php:125
+msgid "About AdVert"
+msgstr ""
+
+#: includes/class-advert-transactions.php:109
+msgid "Basic Transactions"
+msgstr ""
+
+#: includes/class-advert-transactions.php:110
+msgid "Recent Transactions"
+msgstr ""
+
+#: includes/class-advert-transactions.php:112
+msgid "Select an Advertiser"
+msgstr ""
+
+#: includes/class-advert-transactions.php:157
+#: includes/class-advert-transactions.php:172
+msgid "Trans ID"
+msgstr ""
+
+#: includes/class-advert-transactions.php:254
+msgid "&laquo;"
+msgstr ""
+
+#: includes/class-advert-transactions.php:255
+msgid "&raquo;"
+msgstr ""
+
+#: includes/class-advert-widget.php:13
+msgid "AdVert Location"
+msgstr ""
+
+#: includes/class-advert-widget.php:14
+msgid "Place an AdVert if you have locations created."
+msgstr ""
+
+#: includes/class-advert-widget.php:85
+msgid "New title"
+msgstr ""
+
+#: includes/class-advert-widget.php:94
+msgid "Select a Location:"
+msgstr ""
+
+#: includes/class-advert-widget.php:106
+msgid "Set Alignment:"
+msgstr ""
+
+#: includes/class-advert-widget.php:112 includes/class-advert-widget.php:115
+msgid "Inline"
+msgstr ""
+
+#: plugins/custom/class-advert-custom-actions.php:63
+msgid "Custom 1"
+msgstr ""
+
+#: plugins/custom/class-advert-custom-actions.php:72
+msgid "Custom 2"
+msgstr ""
+
+#: plugins/paypal/class-advert-paypal-actions.php:85
+msgid ""
+"Thank you for your payment.<br /><br />Your transaction has been completed, "
+"and a receipt for your purchase has been emailed to you. You may log into "
+"your account at <a href=\"https://www.paypal.com\">PayPal</a> to view "
+"details of this transaction.<br /><br />Your AdCredits will be added to your "
+"account shortly."
+msgstr ""
+
+#: plugins/paypal/class-advert-paypal-actions.php:89
+msgid "Your payment has been cancelled."
+msgstr ""
+
+#: plugins/paypal/class-advert-paypal-actions.php:144
+msgid ""
+"<p>Select the amount of AdCredits you want to add then click Buy Now</p>"
+msgstr ""
+
+#: plugins/paypal/class-advert-paypal-actions.php:181
+msgid "Other"
+msgstr ""
+
+#: plugins/paypal/class-advert-paypal-actions.php:376
+msgid "PayPal API User Name"
+msgstr ""
+
+#: plugins/paypal/class-advert-paypal-actions.php:385
+msgid "PayPal API Password"
+msgstr ""
+
+#: plugins/paypal/class-advert-paypal-actions.php:394
+msgid "PayPal API Signature"
+msgstr ""
+
+#: plugins/paypal/class-advert-paypal-actions.php:403
+msgid ""
+"<a href=\"https://developer.paypal.com/docs/classic/api/apiCredentials/"
+"#creating-classic-api-credentials\" target=\"_blank\">Get your API "
+"information</a>"
+msgstr ""
+
+#: plugins/paypal/class-advert-paypal-actions.php:411
+msgid "Currency Type"
+msgstr ""
+
+#: plugins/paypal/class-advert-paypal-actions.php:440
+msgid "Default AdCredit Amount"
+msgstr ""
+
+#: plugins/paypal/class-advert-paypal-actions.php:463
+msgid "PayPal IPN URL"
+msgstr ""
+
+#: plugins/paypal/class-advert-paypal-actions.php:472
+msgid "PayPal IPN Debug"
+msgstr ""
+
+#: public/advert-frontend-functions.php:113
+msgid ""
+"You have blocked our Ads, we understand...you should know that we use "
+"AdVert, a user friendly Ad System. AdVert provides you an option to control "
+"the type of Ads shown...you are now in control. If you see something too "
+"much, click that option, or if you see something you like you can give that "
+"feedback too.<br /><br /><a href=\"https://norths.co/advert/\">About AdVert</"
+"a>"
+msgstr ""
+
+#: public/advert-frontend-functions.php:125
+msgid ""
+"If this notice continues to show daily, your cookies are either disabled or "
+"this website has manually changed the code."
+msgstr ""
+
+#: public/advert-frontend-functions.php:207
+#: public/advert-frontend-functions.php:248
+msgid "AdVert Dashboard"
+msgstr ""

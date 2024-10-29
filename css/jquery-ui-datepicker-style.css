@@ -1,0 +1,47 @@
+.advert_page_advert-analysis-drilldown .ui-datepicker, .post-type-advert-campaign .ui-datepicker {
+background: #fcfcfc; /* Old browsers */
+background: #fff -moz-linear-gradient(top, #fcfcfc 0%, #fff 100%); /* FF3.6+ */
+background: #fff -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fcfcfc)), color-stop(100%,#fff)); /* Chrome,Safari4+ */
+background: #fff -webkit-linear-gradient(top, #fcfcfc 0%, #fff 100%); /* Chrome10+,Safari5.1+ */
+background: #fff -o-linear-gradient(top, #fcfcfc 0%, #fff 100%); /* Opera11.10+ */
+background: #fff -ms-linear-gradient(top, #fcfcfc 0%, #fff 100%); /* IE10+ */
+background: #fff linear-gradient(top, #fcfcfc 0%, #fff 100%); /* W3C */
+font-size:11px;
+padding:10px;
+border:1px solid #ccc;
+display:none;
+}
+ 
+.advert_page_advert-analysis-drilldown .ui-datepicker table, .post-type-advert-campaign .ui-datepicker table {
+width:278px;
+}
+ 
+.advert_page_advert-analysis-drilldown .ui-datepicker table td, .post-type-advert-campaign .ui-datepicker table td {
+text-align:center;
+}
+ 
+.advert_page_advert-analysis-drilldown .ui-datepicker a, .post-type-advert-campaign .ui-datepicker a {
+cursor:pointer;
+text-decoration:none;
+}
+ 
+.advert_page_advert-analysis-drilldown .ui-datepicker-prev, .post-type-advert-campaign .ui-datepicker-prev {
+}
+ 
+.advert_page_advert-analysis-drilldown .ui-datepicker-next, .post-type-advert-campaign .ui-datepicker-next {
+float:right;
+}
+ 
+.advert_page_advert-analysis-drilldown .ui-datepicker-title, .post-type-advert-campaign .ui-datepicker-title {
+text-align: center;
+font-weight:bold;
+}
+
+.advert_page_advert-analysis-drilldown .ui-datepicker table td:hover, .post-type-advert-campaign .ui-datepicker table td:hover{
+    background-color:#ccc;
+    cursor:pointer;
+}
+
+.advert_page_advert-analysis-drilldown .ui-datepicker .ui-datepicker-today, .post-type-advert-campaign .ui-datepicker .ui-datepicker-today{
+    background-color:#ccc;    
+}

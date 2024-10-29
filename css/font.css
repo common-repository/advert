@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'font3353';
+  src: url('font3353.eot');
+  src: url('font3353.eot?#iefix') format('embedded-opentype'),
+       url('font3353.woff2') format('woff2'),
+       url('font3353.woff') format('woff'),
+       url('font3353.ttf') format('truetype'),
+       url('font3353.svg#font3353') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
